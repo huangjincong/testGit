@@ -1,3 +1,2 @@
 Hi this is master.
 Hi there is a new branch dev joined in.
-Now master say hello to dev2.
